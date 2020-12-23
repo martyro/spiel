@@ -1,0 +1,10 @@
+Event creator:
+
+- options, p.1:
+Public/private, age limit, type (vors/mitte/nach), title/theme, home/locale, max limit, status
+
+- party, p.2:
+Schedule for the night, games to be played, rules to be followed
+
+- members, p.3:
+Invite a core/solo-hosting, responsibility roles, membership list

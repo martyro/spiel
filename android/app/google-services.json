@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "656926784678",
+    "firebase_url": "https://spiel-b02ff.firebaseio.com",
+    "project_id": "spiel-b02ff",
+    "storage_bucket": "spiel-b02ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656926784678:android:d530d0fc6805a0f8530867",
+        "android_client_info": {
+          "package_name": "com.example.spiel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656926784678-hefu55bog9cjr91cudhui3v1vtld4ifh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8hxYGttfyeTPqG-fVNDHU7BdZQkkLOqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656926784678-hefu55bog9cjr91cudhui3v1vtld4ifh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

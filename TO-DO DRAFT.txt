@@ -1,0 +1,15 @@
+Full Stack Spiel Development
+
+Shallow front-end:
+[x] Log-in
+[x] Home page
+[x] Event creator p.1
+[x] Event creator p.2
+[x] Event creator p.3
+[ ] Event finder
+
+MVP back-end:
+[x] Log-in
+[ ] Sign-up
+[ ] Home page
+[ ] Event creator

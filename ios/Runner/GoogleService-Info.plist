@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>656926784678-g1tkrpsmdh613oik1d3nvcjge3j1d4ip.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.656926784678-g1tkrpsmdh613oik1d3nvcjge3j1d4ip</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAUl1vp-muMREsFgxbJo-Gt9EOT1w808Kg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>656926784678</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.spiel</string>
+	<key>PROJECT_ID</key>
+	<string>spiel-b02ff</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spiel-b02ff.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:656926784678:ios:cd7b159592b77d32530867</string>
+	<key>DATABASE_URL</key>
+	<string>https://spiel-b02ff.firebaseio.com</string>
+</dict>
+</plist>
